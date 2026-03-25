@@ -5,6 +5,11 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Achievements </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)  </li><li> 2025.12.05 광운대학교 매치업 심화과정 경진대회 로봇 포스터 부문 우수상  </li><li> 2025.12.05 광운대학교 매치업 심화과정 경진대회 로봇 실무 보고서 부문 장려상  </li><li> 2025.11.08 대한인간공학회 캡스톤 디자인 우수상  </li><li> 2025.07.11 광운탐구모임 1등 수상 (웹 개발)  </li><li> 2025.05.17 카카오페이 핀테크 해커톤 1등  </li><li> 2025.04.22 Cisco 글로벌 해커톤 2등 (프론트엔드 개발)  </li><li> 2025.01.22 챗봇 경진대회 우수상  </li><li> 2025.01.09 생성형 AI 학습모임 1등 (프론트엔드 개발 참여)  </li><li> 2025.01.09 광운튜터링 프로그램 우수상  </li></li><li> 2023.05.31 공학설계입문 작품전시회 1등  </li> </div> 
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  Experience </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 2025.07.07 ~ 2026. 03.02 디랩 코딩학원 정자캠퍼스 강사  </li><li> 2025.03.02 ~ 학부 연구생 (IAE 연구실, HCI / 접근성 경험 연구)  </li><li> 2024.08.28 ~ CHIC (인간<li>컴퓨터 상호작용 연구 동아리) 운영진  </li><li> 2025.03.24 AWS KWU 4기~</li><li> 2024.09.09 SKT A. AI 얼리어답터  </li><li> 2023.12.05 Hooked Protocol 엠버서더  </li><li> 2023.11.12 블록체인 학회 Debutler 운영진  </li> </div> 
+    </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
