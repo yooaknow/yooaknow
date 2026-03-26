@@ -6,17 +6,18 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements</h2>  
 
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
+<li>2026.01.22 광운대학교 2025학년도 챗봇경진대회 우수상</li>
 <li>2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)</li>
 <li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 포스터 부문 우수상</li>
 <li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 실무 보고서 부문 장려상</li>
-<li>2025.11.08 대한인간공학회 캡스톤 디자인 우수상</li>
+<li>2025.11.08 대한인간공학회 캡스톤 디자인  우수상 (키오스크 인터페이스) </li>
 <li>2025.07.11 광운탐구모임 1등 수상 (웹 개발)</li>
-<li>2025.05.17 카카오페이 핀테크 해커톤 1등</li>
-<li>2025.04.22 Cisco 글로벌 해커톤 2등 (프론트엔드 개발)</li>
-<li>2025.01.22 챗봇 경진대회 우수상</li>
-<li>2025.01.09 생성형 AI 학습모임 1등 (프론트엔드 개발 참여)</li>
+<li>2025.05.17 카카오페이 지원 The ‘Pay언’한 핀테크 서비스 해커톤 1등</li>
+<li>2025.04.22 2025 시스코 이노베이션 챌린지 (해커톤) 준우승</li>
+<li>2025.01.09 광운학습모임 기획주제 (생성형 AI 부분) 1등</li>
 <li>2025.01.09 광운튜터링 프로그램 우수상</li>
 <li>2023.05.31 공학설계입문 작품전시회 1등</li>
+
 </ul>
 </div>
 
@@ -25,36 +26,28 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Experience</h2>  
 
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2025.05.07 ~ 2026.03.02 디랩 코딩학원 정자캠퍼스 강사</li>
+<li>2026.03.24 AWS KWU 4기 ~ </li>
+<li>2025.08.07 2025년 매치업 바이오헬스 분야 홍보 서포터즈</li>
+<li>2025.06.07 ~ 2026.03.02 디랩 코딩학원 정자캠퍼스 강사</li>
 <li>2025.03.02 ~ 학부 연구생 (IAE 연구실, HCI / 접근성 경험 연구)</li>
-<li>2024.08.28 ~ CHIC (인간-컴퓨터 상호작용 연구 동아리) 운영진</li>
-<li>2025.03.24 AWS KWU 4기 ~ </li>
 <li>2024.09.09 SKT A. AI 얼리어답터</li>
+<li>2024.08.28 ~ CHIC (인간-컴퓨터 상호작용 연구 동아리) 운영진</li>
+<li>2024.04.25 ICT AWARD KOREA 2024 서포터즈</li>
 <li>2023.12.05 Hooked Protocol 엠버서더</li>
 <li>2023.11.12 블록체인 학회 Debutler 운영진</li>
 </ul>
 </div>
 
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎓 Education</h2>  
-
-<ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2023.03.02 ~ 광운대학교 정보융합학부</li>
-</ul>
-</div>
-
-
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎖 Honors</h2>  
 
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2025.03.16 마이크로모듈 장학금 (고급-인간로봇상호작용)</li>
-<li>2025.03.03 Dean’s List (수석)</li>
-<li>2025.03.20 마이크로모듈 장학금 (초급-이공계)</li>
+<li>2026.03.16 마이크로모듈 성적장학금 (고급-인간로봇상호작용)</li>
+<li>2026.03.03 Dean’s List (수석)</li>
+<li>2025.03.20 마이크로모듈 성적장학금 (초급-이공계)</li>
 <li>2025.02.19 DB김준기문화재단 장학금</li>
 <li>2024.02.26 운해장학재단 성적 장학금</li>
-<li>2023.11.02 Dean’s List (3등)</li>
+<li>2023.11.02 Dean’s List (삼석)</li>
 </ul>
 </div>
 
