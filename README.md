@@ -5,8 +5,9 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements</h2>  
 
-<h3 style="color: #282d33;">🔥 Selected Achievements</h3>
+<h3 style="color: #282d33;">🔥  Featured Achievements</h3>
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
+<li>2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)</li>
 <li>
 2025.05.17 카카오페이 지원 The ‘Pay언’한 핀테크 서비스 해커톤 1등
 <a href="https://news.unn.net/news/articleView.html?idxno=579686" target="_blank">[기사]</a>
@@ -24,7 +25,6 @@
 
 <h3 style="color: #282d33;">📌 Additional Achievements</h3>
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)</li>
 <li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 포스터 부문 우수상</li>
 <li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 실무 보고서 부문 장려상</li>
 <li>2025.07.11 광운탐구모임 1등 수상 (웹 개발)</li>
