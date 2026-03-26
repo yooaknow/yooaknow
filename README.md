@@ -5,28 +5,32 @@
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 Achievements</h2>  
 
+<h3 style="color: #282d33;">🔥 Selected Achievements</h3>
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2026.01.22 광운대학교 2025학년도 챗봇경진대회 우수상</li>
-<li>2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)</li>
-<li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 포스터 부문 우수상</li>
-<li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 실무 보고서 부문 장려상</li>
 <li>
-2025.11.08 대한인간공학회 캡스톤 디자인 우수상 (접근성 키오스크)
-<a href="https://www.esk.or.kr/sub/award_6.php" target="_blank">[수상자 명단]</a>
-</li>
-<li>2025.07.11 광운탐구모임 1등 수상 (웹 개발)</li>
-<li>
-    2025.05.17 카카오페이 지원 The ‘Pay언’한 핀테크 서비스 해커톤 1등
-    <a href="https://news.unn.net/news/articleView.html?idxno=579686" target="_blank">[기사]</a>
+2025.05.17 카카오페이 지원 The ‘Pay언’한 핀테크 서비스 해커톤 1등
+<a href="https://news.unn.net/news/articleView.html?idxno=579686" target="_blank">[기사]</a>
 </li>
 <li>
 2025.04.22 2025 시스코 이노베이션 챌린지 (해커톤) 준우승 
 <a href="https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=50002" target="_blank">[기사]</a>
 </li>
+<li>
+2025.11.08 대한인간공학회 캡스톤 디자인 우수상 (접근성 키오스크)
+<a href="https://www.esk.or.kr/sub/award_6.php" target="_blank">[공식 수상자 명단]</a>
+</li>
+<li>2026.01.22 광운대학교 2025학년도 챗봇경진대회 우수상</li>
+</ul>
+
+<h3 style="color: #282d33;">📌 Additional Achievements</h3>
+<ul style="font-weight: 700; font-size: 15px; color: #282d33;">
+<li>2025.12.27 ProfitLab Hackathon (Prography, DDD, SWYP)</li>
+<li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 포스터 부문 우수상</li>
+<li>2025.12.05 광운대학교 매치업 심화과정 경진대회 - 로봇 실무 보고서 부문 장려상</li>
+<li>2025.07.11 광운탐구모임 1등 수상 (웹 개발)</li>
 <li>2025.01.09 광운학습모임 기획주제 (생성형 AI 부분) 1등</li>
 <li>2025.01.09 광운튜터링 프로그램 우수상</li>
 <li>2023.05.31 공학설계입문 작품전시회 1등</li>
-
 </ul>
 </div>
 
