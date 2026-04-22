@@ -40,7 +40,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Experience</h2>  
 
 <ul style="font-weight: 700; font-size: 15px; color: #282d33;">
-<li>2026.03.24 AWS KWU 4기 ~ </li>
+<li>2026.04.20 ~  하나 청년 금융인재 양성 프로젝트</li>
+<li>2026.03.24 ~ AWS KWU 4기 </li>
 <li>2025.08.07 2025년 매치업 바이오헬스 분야 홍보 서포터즈</li>
 <li>2025.06.07 ~ 2026.03.02 디랩 코딩학원 정자캠퍼스 강사</li>
 <li>2025.03.02 ~ 학부 연구생 (IAE 연구실, HCI / 접근성 경험 연구)</li>
